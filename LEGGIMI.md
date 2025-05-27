@@ -2,6 +2,7 @@ IL MIO PROGETTO VIDEOLUDICO | TRIS ❌ / ⭕ in RISC-V 🕹
 L'informatica del passato
 
 Facciamo un passo nel passato{
+
   🖋️ C’erano una volta… le schede perforate 📇🎟️
   Negli anni ‘60 e ‘70, prima che nascessero le moderne interfacce grafiche e i linguaggi ad alto livello, i computer venivano programmati con schede perforate, conosciute anche come schede Hollerith o schede di archiviazione dati.
   📄 Si tratta di schede di cartoncino rigido, divise in 80 colonne, ognuna delle contiene 2 righe di 40 caratteri,
