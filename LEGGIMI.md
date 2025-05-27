@@ -1,31 +1,32 @@
 IL MIO PROGETTO VIDEOLUDICO | TRIS ❌ / ⭕ in RISC-V 🕹
 L'informatica del passato
 
-Facciamo un passo nel passato{
+Facciamo un passo nel passato {
 
-  🖋️ C’erano una volta… le schede perforate 📇🎟️
-  Negli anni ‘60 e ‘70, prima che nascessero le moderne interfacce grafiche e i linguaggi ad alto livello, i computer venivano programmati con schede perforate, conosciute anche come schede Hollerith o schede di archiviazione dati.
-  📄 Si tratta di schede di cartoncino rigido, divise in 80 colonne, ognuna delle contiene 2 righe di 40 caratteri,
-  capaci di contenere informazioni binarie:
-  1 o 0, ovvero foro o assenza di foro.
-  Ogni colonna è composta da 2 bit, ovvero una coppia di valori che potevano acquisire come valori ZERO o UNO, poiché i computer sono in grado di ragionare distinguendo solo due valori!
-  💡 Esempio semplice
-  Prendiamo questa frase:
-  “Sta passando la corrente in questo istante”
-  - Se in questo istante la corrente passa -> allora assumiamo che la frase sia vera -> true
-  - Se in questo istante la corrente NON passa -> allora assumiamo che la frase sia falsa-> false
-  E dunque perché zeri e uni?
-  
-  1 corrisponde a true e 0 corrisponde a false!
-  Ecco spiegato perché si parla di bit (binary digit), e perché tutta la logica informatica si fonda su questa distinzione fondamentale: on/off, vero/falso, 1/0.
-  Proprio al livello elettronico corrispondo a passaggi o non passaggi della corrente elettrica! scheda 
-  
-  🛠️ Ma a cosa servivano davvero?
-   Le schede perforate venivano usate per istruire il computer su cosa fare:
-   ogni scheda rappresentava un insieme di comandi da eseguire, oppure dati da elaborare.
-   Immagina di dover dare al computer una ricetta: ogni scheda era come un ingrediente o un passo della preparazione.
-  Più schede = un intero programma.
-  Erano usate in università🏫, enti pubblici🏛, banche🏦, e grandi aziende🏢 per eseguire calcoli, stampare documenti, elaborare stipendi o archiviare dati.
+|  🖋️ C’erano una volta… le schede perforate 📇🎟️
+|  Negli anni ‘60 e ‘70, prima che nascessero le moderne interfacce grafiche e i linguaggi ad alto livello, i computer venivano programmati con schede perforate, conosciute anche come schede Hollerith 
+|  o schede di archiviazione dati.
+|  📄 Si tratta di schede di cartoncino rigido, divise in 80 colonne, ognuna delle contiene 2 righe di 40 caratteri,
+|  capaci di contenere informazioni binarie:
+|  1 o 0, ovvero foro o assenza di foro.
+|  Ogni colonna è composta da 2 bit, ovvero una coppia di valori che potevano acquisire come valori ZERO o UNO, poiché i computer sono in grado di ragionare distinguendo solo due valori!
+|  💡 Esempio semplice
+|  Prendiamo questa frase:
+|  “Sta passando la corrente in questo istante”
+|  - Se in questo istante la corrente passa -> allora assumiamo che la frase sia vera -> true
+|  - Se in questo istante la corrente NON passa -> allora assumiamo che la frase sia falsa-> false
+|  E dunque perché zeri e uni?
+|  
+|  1 corrisponde a true e 0 corrisponde a false!
+|  Ecco spiegato perché si parla di bit (binary digit), e perché tutta la logica informatica si fonda su questa distinzione fondamentale: on/off, vero/falso, 1/0.
+|  Proprio al livello elettronico corrispondo a passaggi o non passaggi della corrente elettrica! scheda 
+| 
+|  🛠️ Ma a cosa servivano davvero?
+|  Le schede perforate venivano usate per istruire il computer su cosa fare:
+|  ogni scheda rappresentava un insieme di comandi da eseguire, oppure dati da elaborare.
+|  Immagina di dover dare al computer una ricetta: ogni scheda era come un ingrediente o un passo della preparazione.
+|  Più schede = un intero programma.
+|  Erano usate in università🏫, enti pubblici🏛, banche🏦, e grandi aziende🏢 per eseguire calcoli, stampare documenti, elaborare stipendi o archiviare dati.
   
 }
 Arriviamo a parlare del mio progetto{
