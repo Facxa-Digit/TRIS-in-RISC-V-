@@ -1,5 +1,5 @@
 MY VIDEOGAME PROJECT | TIC-TAC-TOE ❌ / ⭕ in RISC-V 🕹
-Computing from the past
+Computing from the past.
 
 Let’s take a step back in time {
 
