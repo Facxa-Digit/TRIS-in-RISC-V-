@@ -29,6 +29,7 @@ Facciamo un passo nel passato{
   
 }
 Arriviamo a parlare del mio progetto{
+
   Ma da lì in poi è stato un lungo viaggio! 🛣️
   Siamo passati dalla programmazione in linguaggio macchina, fatta solo di 0️⃣ e 1️⃣ incomprensibili all’occhio umano,
   al linguaggio Assembly (con comandi come: mv, la, add, sub, slli…),
